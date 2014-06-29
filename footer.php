@@ -8,7 +8,8 @@
     <li><a href="https://github.com/jmvx" target="_blank">Github</a></li>
     <li><a href="http://projecteuler.net/profile/jmvx.png" target="_blank">Project Euler</a></li>
     <li><a href="http://www.linkedin.com/in/jmvancleve" target="_blank">LinkedIn</a></li>
-    <li><a href="/wordpress/wp-content/uploads/juliavancleve-resume.pdf" target="_blank">R&eacute;sum&eacute;</a></li>
+    <!-- <li><a href="/wordpress/wp-content/uploads/juliavancleve-resume.pdf" target="_blank">R&eacute;sum&eacute;</a></li> -->
+    <li><a href="http://jmv.me/files/juliavancleve-resume.pdf" target="_blank">R&eacute;sum&eacute;</a></li>
   </ul>
     
   <p>Thank you for reading my blog.</p>
